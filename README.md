@@ -6,7 +6,7 @@ I'm a full time student who makes small simulation projects to learn more about 
 
 I work with the programming languages:
 
-[![My Skills](https://skillicons.dev/icons?i=py,opencv,c,js,html,css,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,html,css,r,sqlite)](https://skillicons.dev)
 
 And the frameworks:
 
@@ -20,6 +20,9 @@ As well as design tools:
 
 [![My Skills](https://skillicons.dev/icons?i=figma,webflow,ps,blender)](https://skillicons.dev)
 
+And other technologies including:
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,github,)](https://skillicons.dev)
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
