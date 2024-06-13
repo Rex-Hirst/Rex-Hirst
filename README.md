@@ -4,25 +4,14 @@ I'm a full time student who makes small simulation projects to learn more about 
 
 🌱 I’m currently working on improving my skills in JavaScript, HTML and CSS
 
-I work with the programming languages:
+For Back-End I use:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,html,css,r,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,r,sqlite,opencv)](https://skillicons.dev)
 
-And the frameworks:
+For Front-End I use:
 
-[![My Skills](https://skillicons.dev/icons?i=opencv,np)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,webflow,ps,blender)](https://skillicons.dev)
 
-In the IDE's:
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
-
-As well as design tools:
-
-[![My Skills](https://skillicons.dev/icons?i=figma,webflow,ps,blender)](https://skillicons.dev)
-
-And other technologies including:
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,github,)](https://skillicons.dev)
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
