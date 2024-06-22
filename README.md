@@ -6,11 +6,11 @@ I'm a full time student who makes small simulation projects to learn more about 
 
 For Back-End I use:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,r,sqlite,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,r,sqlite)](https://skillicons.dev)
 
-For Front-End I use:
+I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,webflow,ps,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
