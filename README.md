@@ -11,6 +11,7 @@ Languages I'm currently learning:
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,pytorch,tensorflow)](https://skillicons.dev)
 
 Software tools I use:
+
 [![My Skills](https://skillicons.dev/icons?i=wordpress,figma,webflow,vercel,blender)](https://skillicons.dev)
 
 <!--
