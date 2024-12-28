@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-🌱 I’m currently working on improving my skills in JavaScript, HTML and CSS
+🌱 I’m currently learning Machine Learning and Artificial Intelligence
 
 I like to use:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,sql,html,css,r)](https://skillicons.dev)
 
 I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,pytorch)](https://skillicons.dev)
 
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
