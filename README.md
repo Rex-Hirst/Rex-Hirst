@@ -2,13 +2,16 @@
 
 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 
-I like to use:
+Languages I use:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,sqlite,html,css,r)](https://skillicons.dev)
 
-I'm currently learning:
+Languages I'm currently learning:
 
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,pytorch,tensorflow)](https://skillicons.dev)
+
+Software tools I use:
+[![My Skills](https://skillicons.dev/icons?i=wordpress,figma,webflow,vercel,blender)](https://skillicons.dev)
 
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
