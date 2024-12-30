@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Machine Learning and Artificial Intelligence
+🌱 I’m currently about learning Machine Learning and Artificial Intelligence
 
 Languages I use:
 
