@@ -2,11 +2,11 @@
 
 🌱 I’m currently about learning Machine Learning and Artificial Intelligence
 
-Languages I use:
+Languages/Frameworks I use:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,sqlite,html,css,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,sqlite,html,css,r,astro)](https://skillicons.dev)
 
-Languages I'm currently learning:
+Languages/Frameworks I'm currently learning:
 
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,pytorch,tensorflow)](https://skillicons.dev)
 
