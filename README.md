@@ -2,11 +2,11 @@
 
 🌱 I’m currently about learning Machine Learning and Artificial Intelligence
 
-What I use:
+Stuff I use:
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,nextjs,c,sqlite,r,wordpress,figma)](https://skillicons.dev)
 
-What I'm learning:
+Stuff I'm learning:
 
 [![My Skills](https://skillicons.dev/icons?i=astro,pytorch,tensorflow,vercel,webflow)](https://skillicons.dev)
 
