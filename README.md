@@ -4,7 +4,7 @@
 
 Languages/Frameworks I use:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,sqlite,html,css,r,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,r,astro,c,sqlite)](https://skillicons.dev)
 
 Languages/Frameworks I'm currently learning:
 
