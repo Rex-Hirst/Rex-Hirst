@@ -12,7 +12,7 @@ Languages/Frameworks I'm currently learning:
 
 Software tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,figma,webflow,vercel,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,webflow,wordpress,figma,blender)](https://skillicons.dev)
 
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
