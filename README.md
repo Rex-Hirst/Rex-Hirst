@@ -9,7 +9,7 @@ Languages and Tools
 
 Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rex-Hirst&layout=compact&theme=radical" alt="Rex-Hirst" /></td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rex-Hirst&layout=compact&theme=nightowl" alt="Rex-Hirst" /></td>
 
 <a href="https://www.linkedin.com/in/rexhirst/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rex-Hirst"/>
