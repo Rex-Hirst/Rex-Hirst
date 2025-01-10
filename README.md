@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🏗️ Building something...
-- 🌱 I’m currently about learning Machine Learning, Digital Signal Processing and Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning and Digital Signal Processing
 
 Languages and Tools
 
