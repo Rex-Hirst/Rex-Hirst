@@ -19,6 +19,9 @@ Links:
 <a href="https://www.linkedin.com/in/rexhirst/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rex-Hirst"/>
 </a>
+<a href="https://substack.com/@rexhirst" target="_blank">
+  <img src="https://img.shields.io/badge/Substack-#ff5400?style=for-the-badge&logo=substack&logoColor=white" alt="Rex-Hirst"/>
+</a>
 
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
