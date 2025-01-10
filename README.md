@@ -10,7 +10,13 @@ Stuff I'm learning:
 
 [![My Skills](https://skillicons.dev/icons?i=astro,pytorch,tensorflow,vercel,webflow)](https://skillicons.dev)
 
+Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rex-Hirst&layout=compact&theme=nightowl" alt="Rex-Hirst" /></td>
+
+Links
+<a href="https://www.linkedin.com/in/rexhirst/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rex-Hirst"/>
+</a>
 
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
