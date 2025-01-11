@@ -4,10 +4,9 @@
 
 Languages and Tools
 
-[![](https://skillicons.dev/icons?i=py,html,css,js,nextjs,c,sqlite,r,wordpress,figma)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=astro,pytorch,tensorflow,vercel,webflow)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,html,css,js,nextjs,mongodb,tensorflow,astro,c,sqlite,r,wordpress,figma,vercel)](https://skillicons.dev)
 
-Stats:
+Stats and Links
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rex-Hirst&layout=compact&theme=nightowl" alt="Rex-Hirst" /></td>
 
