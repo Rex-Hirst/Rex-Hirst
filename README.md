@@ -6,15 +6,17 @@ Languages and Tools
 
 [![](https://skillicons.dev/icons?i=py,html,css,js,nextjs,mongodb,tensorflow,astro,c,sqlite,r,wordpress,figma,vercel)](https://skillicons.dev)
 
-Stats and Links
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rex-Hirst&layout=compact&theme=nightowl" alt="Rex-Hirst" /></td>
+Links
 
 <a href="https://www.linkedin.com/in/rexhirst/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rex-Hirst"/>
 </a>
 <a href="https://substack.com/@rexhirst" target="_blank">
   <img src="https://img.shields.io/badge/Substack-ff5400?style=for-the-badge&logo=substack&logoColor=white" alt="Rex-Hirst"/>
+</a>
+
+<a href="https://rexhirst.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge" alt="Rex-Hirst"/>
 </a>
 
 <!--
