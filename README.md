@@ -1,6 +1,6 @@
 Currently learning ML and Digital Signal Processing
 
-languages and tools
+Languages and Tools
 
 [![](https://skillicons.dev/icons?i=py,html,css,js,mongodb,astro,c,sqlite,r,vercel)](https://skillicons.dev)
 
