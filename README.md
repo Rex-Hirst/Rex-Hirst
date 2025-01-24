@@ -1,8 +1,6 @@
-## Hi there 👋
-* 🏗️ Building something...
-*  Currently learning ML and Digital Signal Processing
+currently learning ml and cigital signal processing
 
-Languages and Tools
+languages and tools
 
 [![](https://skillicons.dev/icons?i=py,html,css,js,mongodb,astro,c,sqlite,r,vercel)](https://skillicons.dev)
 
