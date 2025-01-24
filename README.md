@@ -1,10 +1,10 @@
 ## Hi there 👋
-- 🏗️ Building something...
-- 🌱 Currently learning Machine Learning and Digital Signal Processing
+* 🏗️ Building something...
+*  Currently learning ML and Digital Signal Processing
 
 Languages and Tools
 
-[![](https://skillicons.dev/icons?i=py,html,css,js,nextjs,mongodb,tensorflow,astro,c,sqlite,r,wordpress,figma,vercel)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,html,css,js,mongodb,astro,c,sqlite,r,vercel)](https://skillicons.dev)
 
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
