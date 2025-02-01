@@ -1,4 +1,4 @@
-Currently learning ML and Digital Signal Processing
+Currently learning Networking, ML and Digital Signal Processing
 
 Languages and Tools
 
