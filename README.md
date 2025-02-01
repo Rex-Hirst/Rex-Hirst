@@ -2,7 +2,7 @@ Currently learning Networking, ML and Digital Signal Processing
 
 Languages and Tools
 
-[![](https://skillicons.dev/icons?i=py,html,css,js,mongodb,astro,c,sqlite,r,vercel)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,html,css,js,mongodb,c,sqlite,r)](https://skillicons.dev)
 
 <!--
 **Rex-Hirst/Rex-Hirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
